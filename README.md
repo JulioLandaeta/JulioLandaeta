@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Julio+Landaeta....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Julio+Landaeta....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -12,8 +12,14 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
+
 <p align="center">
-    
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  </p>
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -38,7 +44,5 @@
 <hr>
 
 ![snake gif](https://github.com/Azalurg/Azalurg/blob/output/github-contribution-grid-snake.svg)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=JulioLandaeta&theme=merko)
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)![](https://visitor-badge.glitch.me/badge?page_id=github.com/JulioLandaeta)
