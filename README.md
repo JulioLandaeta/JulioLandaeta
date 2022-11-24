@@ -45,6 +45,6 @@
 
 <hr>
 
-![snake gif](https://github.com/Azalurg/Azalurg/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/JulioLandaeta/JulioLandaeta/blob/output/github-contribution-grid-snake.svg)
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)![](https://visitor-badge.glitch.me/badge?page_id=github.com/JulioLandaeta)
