@@ -19,9 +19,9 @@
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="Oracle" height="35" src="images/oraclee.svg"></code>
-  <code><img title="MarkDown" height="35" src="images/markdown.svg"></code>
-  <code><img title="SQLDeveloper" height="25" src="images/Oracle_SQL_Developer.svg"></code>
+  <code><img title="Oracle DataBase" height="33" src="images/oracle.png"></code>
+  <code><img title="MarkDown" height="30" src="images/markdown.png"></code>
+  <code><img title="SQLDeveloper" height="33" src="images/Oracle_SQL_Developer.svg"></code>
   </p>
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
