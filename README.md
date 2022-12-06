@@ -7,7 +7,7 @@
 <h3 align="center">Computer Engineering Student</h3>
 <p align="center">
 - 🌱 I’m currently learning **Java
--  Stay Focus! 🎯
+-  Staying Focus! 🎯
   </p>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
